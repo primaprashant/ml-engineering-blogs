@@ -34,7 +34,7 @@ A curated collection of direct links to Machine Learning and AI engineering blog
 - [Nextdoor](https://engblog.nextdoor.com/tagged/machine-learning)
 - [Nvidia](https://blogs.nvidia.com/blog/category/deep-learning/)
 - [Paypal](https://medium.com/paypal-tech/tagged/machine-learning)
-- [Pinterest](https://medium.com/pinterest-engineering/machine-learning/home)
+- [Pinterest](https://medium.com/pinterest-engineering/tagged/machine-learning)
 - [Shopify](https://shopify.engineering/topics/data-science-engineering)
 - [Slack](https://slack.engineering/tags/machine-learning/)
 - [Soundcloud](https://developers.soundcloud.com/blog/category/machine%20learning)
