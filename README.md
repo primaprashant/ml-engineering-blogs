@@ -25,7 +25,7 @@ A curated collection of direct links to Machine Learning and AI engineering blog
 - [Hootsuite](https://medium.com/hootsuite-engineering/tagged/machine-learning)
 - [Instacart](https://tech.instacart.com/tagged/machine-learning)
 - [Instagram](https://instagram-engineering.com/tagged/machine-learning)
-- [Intuit](https://quickbooks-engineering.intuit.com/tagged/machine-learning)
+- [Intuit](https://medium.com/intuit-engineering/tagged/ai-and-data-science)
 - [LinkedIn](https://engineering.linkedin.com/blog/topic/machine-learning)
 - [Lyft](https://eng.lyft.com/tagged/data-science)
 - [Meta (Facebook)](https://engineering.fb.com/category/ml-applications/)
